@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ATXEs5b_zdI9GZN0HZAQX6dUqzfuexVp/view?usp=sharing](https://drive.google.com/file/d/1ATXEs5b_zdI9GZN0HZAQX6dUqzfuexVp/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link📔](https://drive.google.com/file/d/1pSnrTF1qy6HsnNRbCb2pJGz29KPTCq0y/view?usp=sharing)
 
 - ⚡ Fun fact **Do you know, you can follow me for Free😁**
 
