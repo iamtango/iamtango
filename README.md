@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **ReactJS, Java**
+- 💬 Ask me about **ReactJS, Javascript**
 
 - 📫 How to reach me **vedangnikure07@gmail.com**
 
