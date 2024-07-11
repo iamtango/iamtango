@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Vedang Nikure</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2500&pause=1507&color=FFC8DD&center=true&width=680&lines=A passionate Full Stack Developer from India">
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2500&pause=1507&color=FFC8DD&center=true&width=680&lines=A+passionate+Full+Stack+Developer+from+India">
 </h3>
 <!-- Typing SVG -->
 <p align="center">
